@@ -71,8 +71,8 @@ hr{
     font-weight:500;
 }
 .Ducatiimg{
-    height:415px ;
-    width: 760px;
+    height:500px ;
+    width: 800px;
 }
 #Ducati-items{
     padding-left: 50px ;
@@ -97,4 +97,15 @@ hr{
 }
 #Kawasaki-row{
     padding-left: 10px;
+}
+#moto4img{
+    height: 500px;
+    width: 800px;
+}
+#moto4-row{
+    padding-left: 15px;
+}
+#moto-5img{
+    width: 800px;
+    height: 500px;
 }
