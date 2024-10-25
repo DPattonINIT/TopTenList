@@ -20,7 +20,7 @@
   #font-Title-scale {
     color: white;
   }
-  #font-Info {
+  .font-Info {
     color: white;
     text-align: center;
   }
@@ -31,7 +31,7 @@
     display: none;
   }
 }
-#font-Info {
+.font-Info {
   padding-top: 35px;
   font-size: 40px;
   font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
