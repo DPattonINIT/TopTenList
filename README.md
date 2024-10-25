@@ -5,7 +5,7 @@ Chris H
  //Date revied: 10/25/24
 //Exercise: Top Ten Websites
 //Description: We created a website of top ten motorcycles and cars. Each item is paired with review video, descritpion and photo. We also added website responsiveness for a tablet by changing the color of background and rearranging the layout of the content.
-//Peer Review:
+//Peer Review: really good design looks like an actual real website.
 
 
 
