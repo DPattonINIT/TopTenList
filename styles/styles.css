@@ -2,8 +2,6 @@
 font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
 "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
 */
-
-
 /*index*/
 
 /*motorcycle page 1*/
@@ -42,4 +40,61 @@ font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
   font-size: 80px;
   font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
     "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+}
+.moto1-container{
+    margin-top: 383px;
+    height: 850px;
+}
+.moto1-container h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
+    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+    font-weight:500;
+}
+.moto-text h1{
+    font-size: 45px;
+}
+hr{
+    background-color: black;
+    width: 100%;
+    height: 3px;
+}
+.moto-2-text{
+    display: flex;
+    justify-content: center;
+}
+.moto-2-text h1{
+    font-size: 50px;
+    font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
+    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+    font-weight:500;
+}
+.Ducatiimg{
+    height:415px ;
+    width: 760px;
+}
+#Ducati-items{
+    padding-left: 50px ;
+}
+.moto-2-description h2{
+    padding-top: 35px;
+    font-size: 40px;
+    font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
+    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+    font-weight:500;
+}
+.moto3-titleText h1{
+    font-size: 50px;
+    font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
+    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+    font-weight:500;
+}
+#ninjaimg{
+    height: 500px;
+    width: 800px;
+    padding-left: 50px;
+}
+#Kawasaki-row{
+    padding-left: 10px;
 }
