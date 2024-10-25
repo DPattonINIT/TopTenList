@@ -10,9 +10,6 @@
   body {
     background-color: black;
   }
-  #you-Tube {
-    display: none;
-  }
   .media-Scale {
     flex: 0 0 100%;
     max-width: 100%;
@@ -35,7 +32,7 @@
   padding-top: 35px;
   font-size: 40px;
   font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
-    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+  "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
   font-weight: 500;
 }
 #font-Title-scale {
