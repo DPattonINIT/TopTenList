@@ -10,7 +10,7 @@
   body {
     background-color: black;
   }
-  #youtube-Video {
+  #you-Tube {
     display: none;
   }
   .media-Scale {
@@ -27,6 +27,9 @@
   hr {
     color: white;
   }
+  .imgscale{
+    display: none;
+  }
 }
 #font-Info {
   padding-top: 35px;
@@ -42,7 +45,7 @@
     "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
   font-weight: 500;
 }
-#imgscale {
+.imgscale {
   width: 800px;
   height: 500px;
 }
