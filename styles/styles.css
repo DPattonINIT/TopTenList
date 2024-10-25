@@ -113,3 +113,11 @@ hr{
     width: 109px;
     font-size: 35px;
 }
+.title-Container-cpg {
+    height: 500px;
+    background-color: black;
+    position: absolute;
+}
+.car1-container{
+    margin-top: 383px;
+}
