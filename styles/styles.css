@@ -1,3 +1,9 @@
+/*font style
+font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
+    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+*/
+
+
 /*index*/
 
 /*motorcycle page 1*/
@@ -15,13 +21,25 @@
   height: 100%;
   opacity: 30%;
 }
-
-#navbarNav{
- justify-content: space-evenly;
- 
+#navbarNav {
+  justify-content: space-evenly;
 }
-.navbar-nav{
-    font-weight: bold;
-    gap: 500px;
-    font-size: 30px;
+.navbar-nav {
+  font-weight: bold;
+  gap: 500px;
+  font-size: 30px;
+}
+.title-text-box {
+  position: absolute;
+  margin-top: 150px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title-text-box h1 {
+  color: white;
+  font-size: 80px;
+  font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
+    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
 }
